@@ -6,6 +6,8 @@
 ## 🔨 Funcionalidades do projeto
 - `Funcionalidade 1` `Adicionar nome dos amigos`: O usuário digitará o nome dos amigos no campo "Digite um nome".
 - `Funcionalidade 2` `Sortear`: Após todos os nomes digitados o usuário poderá realizar o sorteio através do botão "Sortear".
+- `Funcionalidade 3` `Coletar nome do usuário`: Essa função garante que o nome sorteado não seja o do próprio usuário.
+- `Funcionalidade 4` `Não sortear nome repetido`: O projeto retira nomes já sorteados da lista, garantindo que não sejam sorteados nomes repetidos.
 
 ## 💻 Tecnologias utilizadas
 - ``JavaScript``
