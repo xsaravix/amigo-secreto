@@ -59,11 +59,3 @@ document.querySelector('input').addEventListener ('keydown', function(event){
         adicionarAmigo();
     }
 })
-
-function verificarNomesSorteados(){
-    for (let i = 0; i < nomesSorteados.length; i++) {
-        if (nomesSorteados[i] === nomeAleatorio) {
-            
-        }
-    }
-}
